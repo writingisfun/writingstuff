@@ -1,2 +1,1 @@
-# writingstuff
-I like writing, do you?
+HOW DOES GITHUB WORK HELP ME
